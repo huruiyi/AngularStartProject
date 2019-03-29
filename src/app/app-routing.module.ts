@@ -8,7 +8,7 @@ import {NzFormComponent} from './nz-form/nz-form.component';
 const routes: Routes = [
   {path: 'date', component: NzDatePickerComponent},
   {path: 'button', component: NzButtonComponent},
-  {path: 'form', component: NzFormComponent},
+  {path: 'form', component: NzFormComponent}
 ];
 
 @NgModule({
